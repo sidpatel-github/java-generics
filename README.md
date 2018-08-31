@@ -12,8 +12,7 @@ This project is implemented in java using Gradle build tool.
 
 ## Authors
 
-* **Siddharth Patel** (https://github.com/sidpatel-github/java-
-ctions)
+* **Siddharth Patel** (https://github.com/sidpatel-github/java-generics)
 
 ## License
 
